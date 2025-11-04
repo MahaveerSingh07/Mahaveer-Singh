@@ -63,12 +63,31 @@
 
 ---
 
-## 📈 GitHub Stats & Activity  
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahaveer-Singh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF&text_color=FFFFFF" height="160px"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahaveer-Singh&theme=react&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahaveer-Singh&show_icons=true&count_private=true&include_all_commits=true&theme=blue_navy&hide_border=true&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF&bg_color=0D1117" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahaveer-Singh&theme=blue_navy&hide_border=true&background=0D1117&ring=00E6FE&fire=00E6FE&currStreakLabel=00E6FE" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaveer-Singh&layout=compact&theme=blue_navy&hide_border=true&title_color=00E6FE&text_color=FFFFFF&bg_color=0D1117" width="420" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahaveer-Singh&theme=github_dark" width="420" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahaveer-Singh&theme=github_dark" width="420" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahaveer-Singh&theme=github_dark" width="420" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaveer-Singh&theme=react-dark&hide_border=true&area=true&color=00E6FE&line=00E6FE" />
 </p>
 
 ---

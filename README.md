@@ -61,8 +61,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -103,7 +101,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaveer-Singh&theme=react-dark&hide_border=true&area=true&color=00C4FF&line=00C4FF" />
 </p>
----
 
 ## 🤝 Connect With Me  
 

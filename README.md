@@ -78,20 +78,69 @@
 </p>
 
 
-## 📊 Programming Skills Overview
-> (Hover to view details — 80–85% for core frontend, 75–80% for others)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaveer-Singh&layout=compact&theme=radical&hide_border=true)
+## 🚀 Tech Stack  
+
+**Languages, Frameworks & Tools I Use:**
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" height="60" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" height="60" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="60" />
+  <br/>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp" height="60" />
+  <br/>
+  <!-- Tools & OS -->
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="60" />
+</p>
 
 ---
 
-## 📈 GitHub Stats & Streaks
+## 📊 Programming Skills Overview  
+
+> 🧠 *Core Frontend Skills: 80–85% | Backend & Databases: 75–80% | Tools & DevOps: 70–80%*
+
+<div align="center">
+
+![Mahaveer Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaveer-Singh&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C4FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 📈 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahaveer-Singh&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahaveer-Singh&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF&text_color=FFFFFF" height="160px"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahaveer-Singh&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahaveer-Singh&theme=react&hide_border=true&background=0D1117&ring=00C4FF&fire=00C4FF&currStreakLabel=00C4FF" height="160px"/>
 </p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahaveer-Singh&theme=algolia&no-frame=true&row=1&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaveer-Singh&theme=react-dark&hide_border=true&area=true&color=00C4FF&line=00C4FF" />
+</p>
+
+---
+
 
 ---
 

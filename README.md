@@ -15,11 +15,9 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mahaveer-singh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Mahaveer Singh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://twitter.com/mahaveer_singh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="Twitter" /></a>
-  &nbsp;
-  <a href="https://github.com/Mahaveer-Singh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" /></a>
+  <a href="https://github.com/MahaveerSingh07" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" /></a>
   &nbsp;
   <a href="mailto:mahaveersinghuk938@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" /></a>
 </p>

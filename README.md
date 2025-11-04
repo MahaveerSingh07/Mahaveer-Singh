@@ -25,324 +25,81 @@
 
 ---
 
-### 🧠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" alt="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="36" height="36" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
-</p>
+# 🚀 Tech Stack & GitHub Stats
+
+## 💻 Tech Stack
+**Languages & Tools I Use:**
+
+`HTML` `CSS` `Bootstrap` `Tailwind CSS` `JavaScript`  
+`React` `Node.js` `Express.js` `PHP` `Python`  
+`C` `C++` `SQL` `MongoDB` `Linux`  
+`Git` `GitHub`
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahaveer-singh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahaveer-singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaveer-singh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## 📊 Programming Skills Graph
+
+```mermaid
+%%{init: {"theme": "dark", "themeVariables": {"pie1":"#ff5733", "pie2":"#00bfff", "pie3":"#f9d71c", "pie4":"#b56576", "pie5":"#48cae4"}}%%
+graph LR
+A[HTML 🟠]:::bar80
+B[CSS 🔵]:::bar85
+C[Bootstrap 🟣]:::bar80
+D[Tailwind 🌸]:::bar80
+E[JavaScript 💛]:::bar85
+F[React ⚛️]:::bar85
+G[Node.js 🟢]:::bar80
+H[Express.js ⚙️]:::bar75
+I[PHP 💻]:::bar80
+J[Python 🐍]:::bar80
+K[C 🧠]:::bar75
+L[C++ 🚀]:::bar80
+M[SQL 🗄️]:::bar80
+N[MongoDB 🍃]:::bar75
+O[Linux 🐧]:::bar80
+P[Git 🔧]:::bar85
+Q[GitHub 🖤]:::bar85
+
+classDef bar85 fill:#00bfff,stroke:#ffffff,stroke-width:1px,color:#fff,width:85%;
+classDef bar80 fill:#f9d71c,stroke:#ffffff,stroke-width:1px,color:#000,width:80%;
+classDef bar75 fill:#48cae4,stroke:#ffffff,stroke-width:1px,color:#000,width:75%;
 
 ---
 
-## 🎯 Proficiency Graphs (scroll horizontally)
-Below is a GitHub-friendly HTML block that shows horizontal scrolling cards with circular percentage graphs for each technology.  
-> **Note:** GitHub renders basic HTML and inline SVG inside README; this block uses inline styles so it will display on your profile.
+## Connect With Me  
 
 <div align="center">
 
-<div style="overflow-x:auto; padding:12px 0;">
-  <div style="display:flex; gap:16px; padding:6px; align-items:center;">
-
-    <!-- Card: HTML - 85% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100" style="flex:0 0 84px">
-          <defs>
-            <linearGradient id="g-html" x1="0%" x2="100%"><stop offset="0%" stop-color="#ff7a18"/><stop offset="100%" stop-color="#af002d"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-html)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="37.68" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">85%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">HTML</div>
-          <div style="font-size:12px; color:#9ca3af">Markup & Semantics</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: CSS - 82% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-css" x1="0%" x2="100%"><stop offset="0%" stop-color="#00c6ff"/><stop offset="100%" stop-color="#0072ff"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-css)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="45.216" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">82%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">CSS</div>
-          <div style="font-size:12px; color:#9ca3af">Layout & Styling</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: Bootstrap - 80% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-boot" x1="0%" x2="100%"><stop offset="0%" stop-color="#ffd452"/><stop offset="100%" stop-color="#ff8a00"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-boot)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="50.24" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">80%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">Bootstrap</div>
-          <div style="font-size:12px; color:#9ca3af">Components & Grid</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: Tailwind - 78% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-tail" x1="0%" x2="100%"><stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-tail)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="55.264" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">78%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">Tailwind</div>
-          <div style="font-size:12px; color:#9ca3af">Utility-first CSS</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: JavaScript - 83% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-js" x1="0%" x2="100%"><stop offset="0%" stop-color="#f7df1e"/><stop offset="100%" stop-color="#ffd54a"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-js)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="42.704" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">83%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">JavaScript</div>
-          <div style="font-size:12px; color:#9ca3af">ES6+, DOM, Async</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: React - 80% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-react" x1="0%" x2="100%"><stop offset="0%" stop-color="#61dafb"/><stop offset="100%" stop-color="#1fb6ff"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-react)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="50.24" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">80%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">React</div>
-          <div style="font-size:12px; color:#9ca3af">Hooks & SPA</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: Node.js - 78% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-node" x1="0%" x2="100%"><stop offset="0%" stop-color="#83e377"/><stop offset="100%" stop-color="#52a24f"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-node)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="55.264" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">78%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">Node.js</div>
-          <div style="font-size:12px; color:#9ca3af">APIs & Servers</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: Express - 75% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-exp" x1="0%" x2="100%"><stop offset="0%" stop-color="#9be7ff"/><stop offset="100%" stop-color="#61dafb"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-exp)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="62.8" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">75%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">Express</div>
-          <div style="font-size:12px; color:#9ca3af">Routing & Middleware</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: PHP - 80% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-php" x1="0%" x2="100%"><stop offset="0%" stop-color="#7f7fd5"/><stop offset="100%" stop-color="#86a8e7"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-php)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="50.24" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">80%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">PHP</div>
-          <div style="font-size:12px; color:#9ca3af">Server-side scripting</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: Python - 78% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-py" x1="0%" x2="100%"><stop offset="0%" stop-color="#306998"/><stop offset="100%" stop-color="#ffd43b"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-py)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="55.264" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">78%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">Python</div>
-          <div style="font-size:12px; color:#9ca3af">Scripting & Tools</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: SQL - 80% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-sql" x1="0%" x2="100%"><stop offset="0%" stop-color="#00c6ff"/><stop offset="100%" stop-color="#0072ff"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-sql)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="50.24" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">80%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">SQL</div>
-          <div style="font-size:12px; color:#9ca3af">Relational DBs</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: MongoDB - 77% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-mdb" x1="0%" x2="100%"><stop offset="0%" stop-color="#3ab54a"/><stop offset="100%" stop-color="#0f9d58"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-mdb)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="57.776" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">77%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">MongoDB</div>
-          <div style="font-size:12px; color:#9ca3af">NoSQL Databases</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: Git - 82% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-git" x1="0%" x2="100%"><stop offset="0%" stop-color="#f05032"/><stop offset="100%" stop-color="#f15b2a"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-git)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="45.216" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">82%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">Git</div>
-          <div style="font-size:12px; color:#9ca3af">Version control & Workflows</div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Card: GitHub - 80% -->
-    <div style="min-width:220px; background:#0d0f14; border-radius:10px; padding:14px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); color:#dbeafe; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto, 'Helvetica Neue',Arial;">
-      <div style="display:flex; align-items:center; gap:12px;">
-        <svg width="84" height="84" viewBox="0 0 100 100">
-          <defs>
-            <linearGradient id="g-gh" x1="0%" x2="100%"><stop offset="0%" stop-color="#6e5494"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient>
-          </defs>
-          <circle cx="50" cy="50" r="40" stroke="#1f2937" stroke-width="10" fill="none"/>
-          <circle cx="50" cy="50" r="40" stroke="url(#g-gh)" stroke-width="10" fill="none"
-            stroke-linecap="round" stroke-dasharray="251.2" stroke-dashoffset="50.24" transform="rotate(-90 50 50)"/>
-          <text x="50" y="54" text-anchor="middle" font-size="18" fill="#fff">80%</text>
-        </svg>
-        <div>
-          <div style="font-weight:700; font-size:15px; color:#fff">GitHub</div>
-          <div style="font-size:12px; color:#9ca3af">Repos & Actions</div>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</div>
+<a href="https://github.com/Mahaveer-Singh" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:mahaveersinghuk938@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/Mahaveer Singh" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/veersingh07_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### ✨ Footer
-> _This README contains inline SVG cards and images for a visual, scrollable proficiency section. Paste the full content into `README.md` in a repo named the same as your GitHub username (e.g., `mahaveer-singh`) to show it on your profile._  
+## 🌟 “Code. Create. Contribute.”  
+<div align="center">
+  
+✨ Made with ❤️ by **[Mahaveer Singh](https://github.com/Mahaveer-Singh)** ✨  
+  
+💻 Powered by **HTML | CSS | Bootstrap | Tailwind | JavaScript | React | Node | Express | PHP | Python | C | C++ | SQL | MongoDB | Linux | Git | GitHub**
 
-If you'd like:
-- different color theme (neon / pastel / gradient), or  
-- animated GIF versions of these cards, or  
-- I can generate a PNG of the whole horizontal strip for use as a header image — tell me which option you prefer and I'll produce it.
+---
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;Let's+build+something+amazing+together!+🚀)
+
+</div>

@@ -103,17 +103,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaveer-Singh&theme=react-dark&hide_border=true&area=true&color=00C4FF&line=00C4FF" />
 </p>
-
----
-
-
----
-
-## 🧩 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahaveer-Singh&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me  
@@ -126,7 +115,7 @@
 <a href="mailto:mahaveersinghuk938@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/mahaveer-singh" target="_blank">
+<a href="https://linkedin.com/in/Mahaveer Singh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/veersingh07_" target="_blank">

@@ -1,6 +1,6 @@
 <!-- README.md for Mahaveer Singh -->
 
-<h1 align="center">Hi 👋, I'm Mahaveer Singh</h1>
+<h1 align="center">Hi I'm Mahaveer Singh</h1>
 <h3 align="center">💻 Passionate Full Stack Developer | MERN Stack | Open Source Contributor</h3>
 
 ---
